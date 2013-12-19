@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         
         //sky.liao add for test git.
+        //git from eclipse.
     }
 
     @Override
